@@ -2,7 +2,7 @@ import { IConfig } from './src/types'
 
 const c: IConfig = {
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/bill816/nav',
 
   // 部署分支
   branch: 'main',
@@ -11,32 +11,32 @@ const c: IConfig = {
   hashMode: true,
 
   // 是否显示右上角的 Github 图标
-  showGithub: true,
+  showGithub: false,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://nav3.cn',
+  homeUrl: 'https://nav.androidlsj.top',
 
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: '老司机工具2.0 - 网站导航',
 
   // 网站描述
-  description: '发现导航 - 精选实用导航网站',
+  description: '老司机工具2.0 - 网站导航',
 
   // 网站关键字
-  keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
+  keywords: '导航,ANDROID,安卓,工具,学习资源,安全,PYTHON',
 
   // 默认主题: Light | Sim | Side | App | Shortcut
-  theme: 'Light',
+  theme: 'Side',
 
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
     <div style="font-weight: bold;">共收录\${total}个网站</div>
-    <div>Copyright © 2018-2021 nav3.cn, All Rights Reserved</div>
+    <div>Copyright © 2021 androidlsj.top, All Rights Reserved</div>
   `,
 
   // 百度统计地址
   // https://tongji.baidu.com/web/welcome/login
-  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba',
+  baiduStatisticsUrl: "https://hm.baidu.com/hm.js?96c3ad26367e6e6ce72e90998c34f257",
 
   // CNZZ 统计地址
   // https://www.cnzz.com/o_index.php
