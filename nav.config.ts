@@ -17,10 +17,10 @@ const c: IConfig = {
   homeUrl: 'https://nav.androidlsj.top',
 
   // 网站标题
-  title: '老司机工具2.0 - 网站导航',
+  title: '老司机导航 - 网站导航',
 
   // 网站描述
-  description: '老司机工具2.0 - 网站导航',
+  description: '老司机导航 - 网站导航',
 
   // 网站关键字
   keywords: '导航,ANDROID,安卓,工具,学习资源,安全,PYTHON',
